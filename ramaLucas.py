@@ -1,1 +1,1 @@
-print('lo corregi')
+print('editado por main')
